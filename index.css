@@ -1,0 +1,19 @@
+
+html {
+    background: url(image01.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Roboto', 'sans-serif';
+}
+
+h3 {
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
